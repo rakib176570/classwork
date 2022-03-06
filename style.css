@@ -1,0 +1,65 @@
+.fast-bgcfc{
+
+    background: rgb(238, 238, 253);
+}
+.rakib-text{
+    padding: 40px 0;
+}
+.rakib-imeagebar{
+    background: url(https://i.ibb.co/LZq9rk6/hero-img.webp) no-repeat;
+   padding: 310px 0;
+    /* background-repeat: no-repeat;
+    background-position: left;
+   */
+}
+.hasina{
+    width: 100px;
+}
+.sakibvai{
+    background: rgb(132, 144, 255);
+}
+.hende{
+    color: #ffff;
+    padding: 60px;
+}
+.one {
+    height: 130px;
+    width: 130px;
+    background: rgb(237, 237, 253);
+    border-radius: 50%;
+    margin: auto;
+}
+.one h1{
+    padding: 20px 0;
+}
+.card:hover a{
+    background:rgb(132, 144, 255);
+}
+.line{
+    line-height: 60px;
+}
+.imgjon {
+    position: relative;
+}
+.img-jo {
+    position: absolute;
+    left: 0;
+    top: -80px;
+    width: 100px;
+}
+.card1{
+   margin-top: 110px;
+   margin-bottom: 40px;
+   box-shadow: 1px 6px 17px -7px #000;
+}
+.futer{
+    background:rgb(13, 13, 14);
+    padding: 10px 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    color: #fff;
+   
+}
+.ambfuter{
+    margin-top: -25px;
+}
